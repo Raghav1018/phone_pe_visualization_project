@@ -1,14 +1,14 @@
-# phone_pe_visualization_project
+# Phone_Pe_Visualization_Project
 
 # ABOUT PHONEPE:
 PhonePe is an Indian digital payments and financial services company headquartered in Bengaluru, Karnataka, India. PhonePe was founded in December 2015, by Sameer Nigam, Rahul Chari, and Burzin Engineer. The PhonePe app, based on the Unified Payments Interface (UPI), went live in August 2016.PhonePe is accepted as a payment option by over 3.5 crore offline and online merchant outlets, constituting 99% of pin codes in the country.
 
 # Problem Statement:
 There is a substantial quantity of information on various metrics and statistics in the Phonepe Pulse Github repository.The objective is to extract this data, process it, and then provide a user-friendly visualization of the insights and information that result.The following stages must be included in the solution:
-By using scripting, clone and extract data from the Phonepe pulse Github project.
-Put the data into the proper format and carry out any required cleaning and pre-processing operations.
-Fill a PostgreSQL database with the modified data for effective storage and retrieval.  To present the data in an engaging and aesthetically pleasing way, use Python with Streamlit and Plotly to create a live geo visualisation dashboard.
-To display the data in the dashboard, retrieve it from the PostgreSQL database.  Allow users to choose from at least 10 distinct drop-down menus to display various statistics on the dashboard. The solution must be reliable, effective, and simple to use. The dashboard needs to be simple to use and offer insightful facts about the data stored in the Phonepe pulse Github repository.
+-> By using scripting, clone and extract data from the Phonepe pulse Github project.
+-> Put the data into the proper format and carry out any required cleaning and pre-processing operations.
+-> Fill a PostgreSQL database with the modified data for effective storage and retrieval.+. To present the data in an engaging and aesthetically pleasing way, use Python with Streamlit and Plotly to create a live geo visualisation dashboard.
+To display the data in the dashboard, retrieve it from the PostgreSQL database.+. Allow users to choose from at least 10 distinct drop-down menus to display various statistics on the dashboard.+. The solution must be reliable, effective, and simple to use.+. The dashboard needs to be simple to use and offer insightful facts about the data stored in the Phonepe pulse Github repository.
 
 # Approach:
 ## 1. Data extraction:
