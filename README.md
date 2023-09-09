@@ -7,8 +7,11 @@ PhonePe is an Indian digital payments and financial services company headquarter
 There is a substantial quantity of information on various metrics and statistics in the Phonepe Pulse Github repository.The objective is to extract this data, process it, and then provide a user-friendly visualization of the insights and information that result.The following stages must be included in the solution:
 -> By using scripting, clone and extract data from the Phonepe pulse Github project.
 -> Put the data into the proper format and carry out any required cleaning and pre-processing operations.
--> Fill a PostgreSQL database with the modified data for effective storage and retrieval.+. To present the data in an engaging and aesthetically pleasing way, use Python with Streamlit and Plotly to create a live geo visualisation dashboard.
-To display the data in the dashboard, retrieve it from the PostgreSQL database.+. Allow users to choose from at least 10 distinct drop-down menus to display various statistics on the dashboard.+. The solution must be reliable, effective, and simple to use.+. The dashboard needs to be simple to use and offer insightful facts about the data stored in the Phonepe pulse Github repository.
+-> Fill a PostgreSQL database with the modified data for effective storage and retrieval.
+-> To present the data in an engaging and aesthetically pleasing way, use Python with Streamlit and Plotly to create a live geo visualisation dashboard.
+-> To display the data in the dashboard, retrieve it from the PostgreSQL database.
+-> Allow users to choose from at least 10 distinct drop-down menus to display various statistics on the dashboard.
+-> The solution must be reliable, effective, and simple to use.The dashboard needs to be simple to use and offer insightful facts about the data stored in the Phonepe pulse Github repository.
 
 # Approach:
 ## 1. Data extraction:
